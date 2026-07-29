@@ -1,0 +1,35 @@
+[
+  {
+    "name": "adbcv",
+    "email": "aghsfy@gmail.com",
+    "password": "$2b$10$g3Ksy0pj3J2uBWAgRyg.mutVt757x3q0nMLnKv/YfMA9JnaI14ipi",
+    "credits": 50,
+    "plan": "Starter",
+    "id": "bhvghhsag",
+    "_id": "bhvghhsag",
+    "createdAt": "2026-07-11T19:44:42.768Z",
+    "updatedAt": "2026-07-11T19:44:42.768Z"
+  },
+  {
+    "name": "adil",
+    "email": "adil@gmail.com",
+    "password": "$2b$10$8So2eCC/HZ0261n0dmHPsuJlbYwfhJ6Fj7c49F8vMSvUNoZp45H82",
+    "credits": 50,
+    "plan": "Starter",
+    "id": "vgu39kl9t",
+    "_id": "vgu39kl9t",
+    "createdAt": "2026-07-11T19:51:31.483Z",
+    "updatedAt": "2026-07-11T19:51:31.483Z"
+  },
+  {
+    "name": "sdfg",
+    "email": "aadil@gmail.com",
+    "password": "$2b$10$fbg0kLPO2ta7RtInGov.aOqbAJ8vENdAeVnfH9iQsamtPLEnvc7lu",
+    "credits": 50,
+    "plan": "Starter",
+    "id": "jgk3wxyaz",
+    "_id": "jgk3wxyaz",
+    "createdAt": "2026-07-11T20:05:03.544Z",
+    "updatedAt": "2026-07-11T20:05:03.544Z"
+  }
+]
