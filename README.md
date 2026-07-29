@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Visionary AI
 
-# Run and deploy your AI Studio app
+> AI-powered image analysis platform built with FastAPI, Google's Gemini Vision API, and PostgreSQL.
 
-This contains everything you need to run your app locally.
+Visionary AI is a full-stack web application that enables users to upload images and receive AI-generated insights, including scene understanding, object detection, contextual descriptions, and natural language question answering. The application features a scalable FastAPI backend, persistent PostgreSQL storage, and an intuitive web interface for seamless image analysis.
 
-View your app in AI Studio: https://ai.studio/apps/41de0211-d562-404c-8c2b-6f0aeab65e9a
+## Tech Stack
 
-## Run Locally
+- **Backend:** FastAPI, Python
+- **AI Model:** Google Gemini Vision API
+- **Database:** PostgreSQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 
