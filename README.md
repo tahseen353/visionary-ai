@@ -27,6 +27,7 @@ Visionary AI is a full-stack web application that enables users to upload images
 
 ## 📂 Project Structure
 
+```text
 visionary-ai/
 ├── .data/              # Application data and storage
 ├── server/             # Backend server logic and API
@@ -40,4 +41,4 @@ visionary-ai/
 ├── tsconfig.json       # TypeScript configuration
 ├── vite.config.ts      # Vite build configuration
 └── README.md
-
+```
