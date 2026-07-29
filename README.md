@@ -25,3 +25,19 @@ Visionary AI is a full-stack web application that enables users to upload images
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2026, 10_50_29 PM" src="https://github.com/user-attachments/assets/8fdd9202-6579-4003-ac7d-f8d96a0af974" />
 
+## 📂 Project Structure
+
+visionary-ai/
+├── .data/              # Application data and storage
+├── server/             # Backend server logic and API
+├── src/                # Frontend source code
+├── .gitignore
+├── index.html          # Main application entry point
+├── metadata.json       # Project metadata/configuration
+├── package.json        # Project dependencies and scripts
+├── package-lock.json
+├── server.ts           # Server entry point
+├── tsconfig.json       # TypeScript configuration
+├── vite.config.ts      # Vite build configuration
+└── README.md
+
